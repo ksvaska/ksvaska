@@ -5,7 +5,7 @@
   
 
 - В настоящий момент прокачиваю React
-  <a src="https://github.com/ksvaska/react_project.git">Сайт для тренировки английских слов (React)</a>
+ 
   
 
 <br/>  
