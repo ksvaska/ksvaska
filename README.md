@@ -6,9 +6,9 @@
 
 - В настоящий момент прокачиваю React
  
-  
-
 <br/>  
+
+#### [Сайт для тренировки английских слов (React,Mobx,Api)](https://github.com/ksvaska/react_project.git)<br/>
 
 ### Connect with me:
 
