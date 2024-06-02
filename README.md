@@ -9,7 +9,8 @@
 <br/>  
 
 #### [Сайт для тренировки английских слов (React,Mobx,Api)](https://github.com/ksvaska/react_project.git)<br/>
-
+#### [Онлай-магазин детской одежды (JS)] (https://github.com/ksvaska/KID_Shop.git)<br/>
+#### [Информационный сайт юридической организации] (https://github.com/ksvaska/commercial_project.git)<br/>
 ### Connect with me:
 
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vas25ks@gmail.com)
